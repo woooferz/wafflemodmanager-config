@@ -1,8 +1,8 @@
 {
-    "name": "REALMS Modded CREATE 1.20.1",
-    "modloader": "https://www.dropbox.com/scl/fi/3mtthjusfwlz82p0gk2a1/fabric-loader-0.14.22-1.20.1-5.zip?rlkey=5ahbxlyr25y11zqib35xcwk94&dl=1",
-    "modloader_name": "fabric-loader-0.14.22-1.20.1",
-    "mods": "https://www.dropbox.com/scl/fi/ofdizfoqp61c4103fpacc/modcob.zip?rlkey=awmm89i9qmelyv4pmtq2o3pk6&dl=1",
-    "folders" : [ "mods" ],
-    "files": [ "config/isxander-main-menu-credits.json" ]
+    "name": "Zombie Apocolypse <TEST>",
+    "modloader": "https://www.dropbox.com/scl/fi/4arh2nyyvhaob4424lsd4/1.19.2-forge-43.3.0.zip?rlkey=329xmcozig5yb8xa9pnzqsw2m&dl=1",
+    "modloader_name": "1.19.2-forge-43.3.0",
+    "mods": "https://www.dropbox.com/scl/fi/46juzcv34iem4ixx6a3vk/apoco.zip?rlkey=l35bqopwtsfw3ife4yyliz7d9&dl=1",
+    "folders" : [ "mods", "kubejs"],
+    "files": [ ]
 }
