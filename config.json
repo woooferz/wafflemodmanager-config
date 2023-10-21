@@ -3,6 +3,6 @@
     "modloader": "https://www.dropbox.com/scl/fi/4arh2nyyvhaob4424lsd4/1.19.2-forge-43.3.0.zip?rlkey=329xmcozig5yb8xa9pnzqsw2m&dl=1",
     "modloader_name": "1.19.2-forge-43.3.0",
     "mods": "https://www.dropbox.com/scl/fi/69s55ec99qqk3hlrijz15/apoco2.zip?rlkey=imv2vfwmtf1fbnt2hinfyfg1w&dl=1",
-    "folders" : [ "mods", "kubejs"],
+    "folders" : [ "mods", "kubejs", "libraries"],
     "files": [ ]
 }
