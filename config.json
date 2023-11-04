@@ -1,7 +1,7 @@
 {
     "name": "REALMS Modded CREATE 1.20.1",
-    "modloader": "https://www.dropbox.com/scl/fi/3mtthjusfwlz82p0gk2a1/fabric-loader-0.14.22-1.20.1-5.zip?rlkey=5ahbxlyr25y11zqib35xcwk94&dl=1",
+    "modloader": "https://wooferz.dev/public_uploads/c5cf9a3b-299b-455f-81a7-55dc81d2356e/fabric-loader-0.14.22-1.20.1.zip",
     "modloader_name": "fabric-loader-0.14.22-1.20.1",
-    "mods": "https://www.dropbox.com/scl/fi/ofdizfoqp61c4103fpacc/modcob.zip?rlkey=awmm89i9qmelyv4pmtq2o3pk6&dl=1",
+    "mods": "https://wooferz.dev/public_uploads/c5cf9a3b-299b-455f-81a7-55dc81d2356e/modcob.zip",
     "folders": [ "mods" ]
 }
